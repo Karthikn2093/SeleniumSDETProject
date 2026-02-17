@@ -1,1 +1,25 @@
+# Maven
 /target/
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# TestNG output
+/test-output/
+
+# Drivers
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+# OS files
+.DS_Store
+Thumbs.db
